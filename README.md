@@ -1,4 +1,2 @@
-# xsen
-
-
-plasma aurorae 
+# XSen
+Nephrite Aurorae Theme
