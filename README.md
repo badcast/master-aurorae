@@ -1,4 +1,4 @@
-# XSen
+# XSen window decoration for KDE
 XSen Aurorae Theme
 
 # View
