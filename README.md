@@ -1,4 +1,4 @@
-#xsen
+# xsen
 
 
-plasma theme suite
+plasma aurorae 
