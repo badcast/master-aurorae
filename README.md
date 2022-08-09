@@ -1,2 +1,2 @@
 # XSen
-Nephrite Aurorae Theme
+XSen Aurorae Theme
